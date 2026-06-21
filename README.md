@@ -1,2 +1,26 @@
-# AI-Learning
-My AI learning journey
+# AI Learning
+
+你好，我是小涵学姐。
+
+海南大学机械工程专业在读，
+正在学习 AI、Python 和自动化工具。
+
+## 关于我
+
+- 🎓 海南大学机械设计制造及其自动化专业
+- 🤖 正在转向 AI 方向
+- 📱 抖音校园IP创作者
+- 🚀 持续学习与实践
+
+## 学习计划
+
+- [ ] Python基础
+- [ ] GitHub使用
+- [ ] AI Agent开发
+- [ ] Dify
+- [ ] LangChain
+- [ ] AI项目实战
+
+## 项目记录
+
+持续更新中...
